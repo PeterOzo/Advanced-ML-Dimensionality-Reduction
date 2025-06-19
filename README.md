@@ -1,12 +1,12 @@
-# Advanced-ML-Dimensionality-Reduction
+### Advanced-ML-Dimensionality-Reduction
 
-# Advanced Machine Learning: Dimensionality Reduction and Classification Performance Analysis
+### Advanced Machine Learning: Dimensionality Reduction and Classification Performance Analysis
 
-## Project Overview
+#### Project Overview
 
 This repository contains a comprehensive analysis of **dimensionality reduction techniques** and their impact on machine learning classifier performance, implemented for **Advanced Machine Learning Lab 6 - Module 4**. The project systematically evaluates **Principal Component Analysis (PCA)** and **Kernel PCA** using the MNIST handwritten digit dataset, comparing their effects on training time and classification accuracy across different algorithms.
 
-## Project Objectives
+### Project Objectives
 
 ### Primary Goals
 1. **Evaluate dimensionality reduction impact** on classification performance
